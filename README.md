@@ -1,2 +1,3 @@
 # ruby_lessons
-# ruby-lessons
+
+Simple Find Number Game in Ruby
